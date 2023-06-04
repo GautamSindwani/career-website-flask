@@ -1,2 +1,2 @@
 # careers-website-flask
-A careers website for everyone
+A careers website to search jobs

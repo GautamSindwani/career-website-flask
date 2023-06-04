@@ -1,3 +1,2 @@
 # careers-website-flask
-A careers website for everyone
-my first repository
+A careers website to search jobs
